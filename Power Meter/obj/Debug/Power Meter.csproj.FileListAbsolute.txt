@@ -1,0 +1,50 @@
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe.config
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.pdb
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csprojAssemblyReference.cache
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Form1.resources
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Properties.Resources.resources
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.GenerateResource.cache
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.CoreCompileInputs.cache
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.exe
+C:\Users\John\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.pdb
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe.config
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.pdb
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csprojAssemblyReference.cache
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Form1.resources
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Properties.Resources.resources
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.GenerateResource.cache
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.CoreCompileInputs.cache
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.exe
+C:\Users\SoftDev\Nextcloud\TECHCareers\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.pdb
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe.config
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.pdb
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csprojAssemblyReference.cache
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Form1.resources
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Properties.Resources.resources
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.GenerateResource.cache
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.CoreCompileInputs.cache
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.exe
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.pdb
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\PowerMeter.mdf
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\PowerMeter_log.ldf
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\CustomerData.dll
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\CustomerData.pdb
+C:\Users\SoftDev\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.CopyComplete
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe.config
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.exe
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\Power Meter.pdb
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\CustomerData.dll
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\CustomerData.pdb
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csprojAssemblyReference.cache
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Form1.resources
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power_Meter.Properties.Resources.resources
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.GenerateResource.cache
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.CoreCompileInputs.cache
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.csproj.CopyComplete
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.exe
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\obj\Debug\Power Meter.pdb
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\PowerMeter.mdf
+C:\Users\John\Nextcloud\TECHCareers\DOT NET\Windows Forms\Power Meter\Power Meter\bin\Debug\PowerMeter_log.ldf
